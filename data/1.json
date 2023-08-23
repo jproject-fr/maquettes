@@ -1,0 +1,36 @@
+{
+  "items": [
+    {
+      "image": "1-delivery.png",
+      "title": "Page d'accueil"
+    },
+    {
+      "image": "1-cities.png",
+      "title": "Choix de la ville de livraison"
+    },
+    {
+      "image": "1-selected.png",
+      "title": "Sélection de la ville de livraison"
+    },
+    {
+      "image": "1-togo.png",
+      "title": "Click and collect"
+    },
+    {
+      "image": "2-category.png",
+      "title": "Page Catégorie (version avec 1 produit par ligne)"
+    },
+    {
+      "image": "2-category2.png",
+      "title": "Page Catégorie (version avec 2 produits par ligne)"
+    },
+    {
+      "image": "2-filters.png",
+      "title": "Filtres"
+    },
+    {
+      "image": "3-product.png",
+      "title": "Page produit"
+    }
+  ]
+}
